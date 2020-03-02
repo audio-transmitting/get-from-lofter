@@ -11,8 +11,8 @@ for(var a of document.getElementsByTagName('a')){
 console.log(a.href)
 }
 ```
-# 第四步：把console输出的内容全选贴回目录下的“links.txt”
 ![第三步](/demo_img/3.png)
-# 第五步：执行目录下的python程序
+# 第四步：把console输出的内容全选贴回目录下的“links.txt”
 ![第四步](/demo_img/4.png)
+# 第五步：执行目录下的python程序
 
